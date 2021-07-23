@@ -1,4 +1,6 @@
 # SLR vs LALR
+Iago Rodrigues Agualuza
+Matrícula 617031159
 
 Trabalho da disciplina Compiladores 2021.1
 
