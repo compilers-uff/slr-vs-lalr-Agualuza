@@ -29,7 +29,7 @@ def p_S_eq(p):
 
 def p_S_att(p):
     'S : R'
-    p[0] = p[1] == p[3]
+    p[0] = p[1]
 
 def p_L_mult(p):
     'L : MULT R'
